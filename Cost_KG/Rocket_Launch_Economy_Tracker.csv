@@ -1,0 +1,61 @@
+Platform,Country,First Flight,Inflation Adjusted LEO ($/kg) - 2020 USD,Source
+SpaceX,USA,2020,50,2017 IAC Presentation
+SpaceX Falcon 9,USA,2010,2600,SpaceX Capabilities & Services Documents
+SpaceX Falcon Heavy,USA,2018,1500,SpaceX Capabilities & Services Documents
+Delta E,USA,1965,177900,Koelle (1991) / Astronautix
+Scout,USA,1961,118500,Koelle (1991) / Astronautix
+Atlas Centaur,USA,1963,29500,Hammond (1999)
+Titan II,USA,1964,30600,"Xu, Hollingsworth, and Smith (2019)"
+Soyuz,Russia,1966,17900,FAA Office of Commercial Space Transportation (2018)
+Titan III+,USA,1965,21000,"Xu, Hollingsworth, and Smith (2019)"
+Kosmos,Russia,1962,14900,"Xu, Hollingsworth, and Smith (2019)"
+Proton,Russia,1965,8200,"Xu, Hollingsworth, and Smith (2019)"
+R-36 / Cyclone,Russia,1966,8400,"Xu, Hollingsworth, and Smith (2019)"
+Saturn V,USA,1967,5400,Williams (2016)
+Delta 3000,USA,1975,21400,"Xu, Hollingsworth, and Smith (2019)"
+Long March 2A,China,1975,17500,"Xu, Hollingsworth, and Smith (2019)"
+Space Shuttle,USA,1981,65400,Pielke and Byerly (2011) / Jones (2018)
+Delta 3910,USA,1980,32800,Hammond (1999)
+Long March 2C,China,1982,8300,FAA Office of Commercial Space Transportation (2018)
+Zenit 2,Russia,1985,5100,"Xu, Hollingsworth, and Smith (2019)"
+Shavit,Israel,1988,31100,"Xu, Hollingsworth, and Smith (2019)"
+Pegasus,Russia,1990,41100,Hammond (1999)
+Delta II,USA,1990,38800,FAA Office of Commercial Space Transportation (2018)
+Titan IV,USA,1989,30800,"Xu, Hollingsworth, and Smith (2019)"
+Ariane 44,Europe,1988,18300,"Xu, Hollingsworth, and Smith (2019)"
+Atlas II,USA,1991,18700,"Xu, Hollingsworth, and Smith (2019)"
+Long Marche 2E,China,1990,9900,"Xu, Hollingsworth, and Smith (2019)"
+Long Marche 2D,China,1992,9100,FAA Office of Commercial Space Transportation (2018)
+H-II,Japan,1994,10500,"Xu, Hollingsworth, and Smith (2019)"
+PSLV,India,1994,8500,FAA Office of Commercial Space Transportation (2018)
+Long March 3B,China,1997,6200,FAA Office of Commercial Space Transportation (2018)
+Long March 4B,China,1999,7600,FAA Office of Commercial Space Transportation (2018)
+Zenit 3SL,Russia,1999,8900,"Xu, Hollingsworth, and Smith (2019)"
+Delta III,USA,1999,18000,"Xu, Hollingsworth, and Smith (2019)"
+Atlas III,USA,2000,16000,"Xu, Hollingsworth, and Smith (2019)"
+GSLV,India,2001,10000,FAA Office of Commercial Space Transportation (2018)
+Delta IV,USA,2002,10400,FAA Office of Commercial Space Transportation (2018)
+Atlas V,USA,2002,8100,FAA Office of Commercial Space Transportation (2018)
+LVM3,India,2017,8000,FAA Office of Commercial Space Transportation (2018)
+Antares,USA,2013,13600,GAO (2017)
+Angaras,Russia,2014,4500,Russian Space Web
+Long March 5,China,2016,7900,"Xu, Hollingsworth, and Smith (2019)"
+Delta IV Heavy,USA,2004,11600,"Xu, Hollingsworth, and Smith (2019)"
+Ariane 5G,Europe,1997,10200,"Xu, Hollingsworth, and Smith (2019)"
+Start,Russia,1993,23600,"Xu, Hollingsworth, and Smith (2019)"
+Rokot,Russia,1994,20600,FAA Office of Commercial Space Transportation (2018)
+Taurus,USA,1994,34600,"Xu, Hollingsworth, and Smith (2019)"
+Pegasus XL,USA,1996,50600,"Xu, Hollingsworth, and Smith (2019)"
+M-V,Japan,1997,45800,"Xu, Hollingsworth, and Smith (2019)"
+Athena 1,USA,1997,19200,"Xu, Hollingsworth, and Smith (2019)"
+SHTIL,Russia,1998,19100,"Xu, Hollingsworth, and Smith (2019)"
+Minotaur I,USA,2000,73100,FAA Office of Commercial Space Transportation (2018)
+Strela,Russia,2003,11200,"Xu, Hollingsworth, and Smith (2019)"
+Falcon 1,USA,2008,12600,"Xu, Hollingsworth, and Smith (2019)"
+Minotaur IV,USA,2010,30500,FAA Office of Commercial Space Transportation (2018)
+Epsilon,Japan,2013,34500,FAA Office of Commercial Space Transportation (2018)
+Vega,Europe,2012,20000,FAA Office of Commercial Space Transportation (2018)
+Kuaizhou,China,2013,10600,FAA Office of Commercial Space Transportation (2018)
+Long March 11,China,2015,10600,FAA Office of Commercial Space Transportation (2018)
+Electron,USA,2018,23100,FAA Office of Commercial Space Transportation (2018)
+Shian Quxian,China,2019,17300,Woo (2019) / CSIS China Power
